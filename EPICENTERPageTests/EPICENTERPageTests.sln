@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPICENTERPageTests", "EPICENTERPageTests.csproj", "{B5A97CDC-4C82-4E2B-817F-7C985583B42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A97CDC-4C82-4E2B-817F-7C985583B42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A97CDC-4C82-4E2B-817F-7C985583B42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A97CDC-4C82-4E2B-817F-7C985583B42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A97CDC-4C82-4E2B-817F-7C985583B42A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878A4693-35CF-4837-9D8A-FCEA82AF4E5E}
+	EndGlobalSection
+EndGlobal
