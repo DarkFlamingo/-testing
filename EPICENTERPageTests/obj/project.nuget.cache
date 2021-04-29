@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YId1f1EMbEnTgShQqEdtek8mvtpu/ZefDyehzh6IFw9qV83OzggvM5jQLIAZpIdFJJZ25XII0S5PJkRrAUwvmQ==",
+  "dgSpecHash": "JFo1LsNNWMsiGQhzRapjoRjquoopMQPDTqaGNQKTANPv60grLk6jP5hwshm6XE56tB7k5Iv198eLnqrw+6NDsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maxim\\source\\repos\\EPICENTERPageTests\\EPICENTERPageTests.csproj",
+  "projectFilePath": "C:\\Users\\Maxim\\Desktop\\testing\\EPICENTERPageTests\\EPICENTERPageTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

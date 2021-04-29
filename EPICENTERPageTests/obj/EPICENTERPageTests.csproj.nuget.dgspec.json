@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxim\\source\\repos\\EPICENTERPageTests\\EPICENTERPageTests.csproj": {}
+    "C:\\Users\\Maxim\\Desktop\\testing\\EPICENTERPageTests\\EPICENTERPageTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxim\\source\\repos\\EPICENTERPageTests\\EPICENTERPageTests.csproj": {
+    "C:\\Users\\Maxim\\Desktop\\testing\\EPICENTERPageTests\\EPICENTERPageTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxim\\source\\repos\\EPICENTERPageTests\\EPICENTERPageTests.csproj",
+        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\testing\\EPICENTERPageTests\\EPICENTERPageTests.csproj",
         "projectName": "EPICENTERPageTests",
-        "projectPath": "C:\\Users\\Maxim\\source\\repos\\EPICENTERPageTests\\EPICENTERPageTests.csproj",
+        "projectPath": "C:\\Users\\Maxim\\Desktop\\testing\\EPICENTERPageTests\\EPICENTERPageTests.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxim\\source\\repos\\EPICENTERPageTests\\obj\\",
+        "outputPath": "C:\\Users\\Maxim\\Desktop\\testing\\EPICENTERPageTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",

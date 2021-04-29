@@ -7,6 +7,13 @@ using System;
 using System.Linq;
 using System.Diagnostics;
 
+/*
+1 Open Google
+2 Search for makeup
+3 Open the first link
+4 Check that the store is open from 7:55 to 20:05
+*/
+
 namespace OwnPageTests
 {
     public class Tests

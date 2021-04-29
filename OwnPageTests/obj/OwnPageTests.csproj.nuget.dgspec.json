@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxim\\source\\repos\\OwnPageTests\\OwnPageTests.csproj": {}
+    "C:\\Users\\Maxim\\Desktop\\testing\\OwnPageTests\\OwnPageTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxim\\source\\repos\\OwnPageTests\\OwnPageTests.csproj": {
+    "C:\\Users\\Maxim\\Desktop\\testing\\OwnPageTests\\OwnPageTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxim\\source\\repos\\OwnPageTests\\OwnPageTests.csproj",
+        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\testing\\OwnPageTests\\OwnPageTests.csproj",
         "projectName": "OwnPageTests",
-        "projectPath": "C:\\Users\\Maxim\\source\\repos\\OwnPageTests\\OwnPageTests.csproj",
+        "projectPath": "C:\\Users\\Maxim\\Desktop\\testing\\OwnPageTests\\OwnPageTests.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxim\\source\\repos\\OwnPageTests\\obj\\",
+        "outputPath": "C:\\Users\\Maxim\\Desktop\\testing\\OwnPageTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",

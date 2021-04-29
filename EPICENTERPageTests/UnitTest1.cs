@@ -44,7 +44,7 @@ namespace EPICENTERPageTests
             System.Threading.Thread.Sleep(timeout: TimeSpan.FromSeconds(1));
             var contactInformation = driver.FindElement(_contactInformation);
 
-            if (contactInformation.Text.Contains("07:30 до fsafsafsad22:30"))
+            if (contactInformation.Text.Contains("07:30 до 22:30"))
             {
                 Console.WriteLine("Працює в 07:30 до 22:30");
                 Assert.Pass("Працює в 07:30 до 22:30");

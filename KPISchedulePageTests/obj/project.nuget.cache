@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bst2LjXgwv5g8QK8X8nDWkm2AlaUsB4xaPB4/xkeaC/zkdIMIQIxqDUsm+f11C+e+ON+dVenj4xdSczpG+/3yg==",
+  "dgSpecHash": "0VHG6dm6jISXhx48a1hu6atS7udcV75pHyv+3FWbFYzQ7RLxBs4C/nIX2FoRsSTPzoLr06NyHIw7zueTJ8od7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maxim\\source\\repos\\KPISchedulePageTests\\KPISchedulePageTests.csproj",
+  "projectFilePath": "C:\\Users\\Maxim\\Desktop\\testing\\KPISchedulePageTests\\KPISchedulePageTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
